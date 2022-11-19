@@ -119,6 +119,13 @@ video{
 
 }
 
+.link-item{
+  font-size: 17px;
+    font-weight: bold;
+    text-decoration: underline;
+    color: var(--title-blue-color);
+}
+
 @media only screen and (max-width: 1146px) {
   video{
     height: 40%;
